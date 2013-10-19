@@ -1,5 +1,9 @@
-# Student Robotics 2013 code (Raspberry Pi flavoured)
+# Student Robotics 2014 code
 
-The code running on the robots Lifterbot and Pacbot from Student Robotics 2013.
+The code running on the robot for Student Robotics 2014.
 
-**[More information can be found on the wiki](https://github.com/Systemetric/sr-pi-2013/wiki)**.
+**Code from this repository should be kept private.** Please be careful not to
+leak code for this year's robot into `sr-pi-2013`, the code repository for last
+year's robots!
+
+**[More information can be found on the wiki](https://github.com/Systemetric/sr-2014/wiki)**.
